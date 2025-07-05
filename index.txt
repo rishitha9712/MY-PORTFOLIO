@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Your Name - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #005f99;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Page Title and Heading -->
+    <h1>Your Name</h1>
+
+    <!-- About Me Section -->
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm a passionate web developer and technology enthusiast with a strong background in front-end design. 
+            I love building clean and user-friendly websites. My interests include UI/UX, open-source projects, and exploring the latest web trends.
+        </p>
+    </section>
+
+    <!-- Skills and Interests -->
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+
+        <h2>Interests</h2>
+        <ol>
+            <li>Web Development</li>
+            <li>Machine Learning</li>
+            <li>Graphic Design</li>
+        </ol>
+    </section>
+
+    <!-- Projects Section -->
+    <section>
+        <h2>Projects</h2>
+
+        <h3>Portfolio Website</h3>
+        <p>A personal portfolio website showcasing my work and skills.</p>
+        <a href="https://github.com/yourusername/portfolio">View Project</a>
+
+        <h3>Weather App</h3>
+        <p>A weather application using OpenWeatherMap API to show real-time data.</p>
+        <a href="https://github.com/yourusername/weather-app">View Project</a>
+    </section>
+
+    <!-- Contact Information -->
+    <section>
+        <h2>Contact</h2>
+        <p>Email: yourname@example.com</p>
+        <p>
+            <a href="https://linkedin.com/in/yourusername">LinkedIn</a> |
+            <a href="https://github.com/yourusername">GitHub</a>
+        </p>
+    </section>
+
+</body>
+</html>
